@@ -24,10 +24,10 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 | | **Version Control Systems** | |
 | 23-07-31 | Git | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/Git.md) |
 | | **Repo Hosting Services** | |
-| 23-08-03 | GitHub | |
+| 23-08-03 | GitHub | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/GitHub.md) |
 | | **OS and General Knowledge** | |
-| 23-08-08 | Terminal Usage | 이정현, 정우경, 김지성 |
-| 23-08-08 | POSIX Basics | 이정현, 정우경, 김지성 |
+| 23-08-08 | Terminal Usage | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/Terminal%20Usage.md), 정우경, 김지성 |
+| 23-08-08 | POSIX Basics | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/POSIX.md), 정우경, 김지성 |
 | To-do | Basic Terminal Commands | |
 | To-do | Operating Systems Knowledge (7 Topics) | |
 | | **Relational Databases** | |
