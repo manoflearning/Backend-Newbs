@@ -22,12 +22,12 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 | 23-07-20 | What is hosting? | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/What%20is%20Hosting%3F.md), [정우경](https://github.com/manoflearning/backend-newbs/blob/main/manoflearning/What%20is%20hosting_%20-%20Google%20Docs.pdf), [김지성](https://github.com/manoflearning/backend-newbs/blob/main/Zs/What%20is%20Web%20Hosting.pdf) |
 | 23-07-27 | Internet Recap | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/Internet%20Review.md), [정우경](https://github.com/manoflearning/backend-newbs/blob/main/manoflearning/Review%20(230703%20~%20230720)%20-%20Google%20Docs.pdf), [김지성](https://github.com/manoflearning/backend-newbs/blob/main/Zs/Review.pdf) |
 | | **Version Control Systems** | |
-| 23-07-31 | Git | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/Git.md) |
+| 23-07-31 | Git | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/Git.md), [김지성](https://github.com/manoflearning/backend-newbs/blob/main/Zs/Git.pdf) |
 | | **Repo Hosting Services** | |
 | 23-08-03 | GitHub | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/GitHub.md) |
 | | **OS and General Knowledge** | |
-| 23-08-08 | Terminal Usage | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/Terminal%20Usage.md), 정우경, 김지성 |
-| 23-08-08 | POSIX Basics | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/POSIX.md), 정우경, 김지성 |
+| 23-08-08 | Terminal Usage | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/Terminal%20Usage.md), [정우경](https://github.com/manoflearning/backend-newbs/blob/main/manoflearning/Terminal%20Usage%20-%20Google%20Docs.pdf), [김지성](https://github.com/manoflearning/backend-newbs/blob/main/Zs/Basic_Terminal_Usage.pdf) |
+| 23-08-08 | POSIX Basics | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/POSIX.md), [정우경](https://github.com/manoflearning/backend-newbs/blob/main/manoflearning/POSIX%20Basics%20-%20Google%20Docs.pdf), [김지성](https://github.com/manoflearning/backend-newbs/blob/main/Zs/Posix%20Basics.pdf) |
 | To-do | Basic Terminal Commands | |
 | To-do | Operating Systems Knowledge (7 Topics) | |
 | | **Relational Databases** | |
