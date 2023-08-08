@@ -13,7 +13,7 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 
 | Date | Detail | Notes |
 |------|--------|-------|
-| &nbsp;&nbsp;&nbsp; | **Internet** | &nbsp;&nbsp;&nbsp; |
+| | **Internet** | |
 | 23-07-03 | How does the internet work? | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/How%20does%20the%20internet%20work%3F.md), [정우경](https://github.com/manoflearning/backend-newbs/blob/main/manoflearning/How%20does%20the%20internet%20work_%20-%20Google%20Docs.pdf), [김지성](https://github.com/manoflearning/backend-newbs/blob/main/Zs/How%20does%20Internet%20work.pdf) |
 | 23-07-06 | What is HTTP? | [정우경](https://github.com/manoflearning/backend-newbs/blob/main/manoflearning/What%20is%20HTTP_%20-%20Google%20Docs.pdf), [김지성](https://github.com/manoflearning/backend-newbs/blob/main/Zs/What%20is%20HTTP.pdf) |
 | 23-07-10 | Browsers and how they work? | [이정현](https://github.com/manoflearning/backend-newbs/blob/main/AFpine/Browsers%20and%20how%20they%20work%3F.md), [정우경](https://github.com/manoflearning/backend-newbs/blob/main/manoflearning/Browsers%20and%20how%20they%20work_%20-%20Google%20Docs.pdf), [김지성](https://github.com/manoflearning/backend-newbs/blob/main/Zs/How%20browsers%20work.pdf) |
@@ -35,9 +35,9 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 
 ## Schedules (Hands-on)
 
-| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Detail | Materials | Codes |
+| Date | Detail | Materials | Codes |
 |------|--------|-------|-----------| 
-| 23-08-02 | HTML/CSS | [WEB1- HTML & Internet](https://www.youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb), [WEB2-CSS](https://www.youtube.com/playlist?list=PLuHgQVnccGMAnWgUYiAW2cTzSBywFO75B) | 이정현, [정우경](https://github.com/manoflearning/zombie) &nbsp;&nbsp;&nbsp; |
+| 23-08-02 | HTML/CSS | [WEB1- HTML & Internet](https://www.youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb), [WEB2-CSS](https://www.youtube.com/playlist?list=PLuHgQVnccGMAnWgUYiAW2cTzSBywFO75B) | 이정현, [정우경](https://github.com/manoflearning/zombie) |
 | 23-08-09 | JavaScript | [Javascript for Beginners](https://nomadcoders.co/javascript-for-beginners) | 이정현, 정우경 |
 | 23-08-12 | HTML/CSS, JavaScript Recap 1 | [CS50x 2023 - Lecture 8 - HTML, CSS, JavaScript](https://www.youtube.com/live/alnzFK-4xMY?feature=share) | 이정현, 정우경, 김지성 |
 | 23-08-31 | HTML/CSS, JavaScript Recap 2 | [Heather Buchel](https://heather-buchel.com/) | 이정현, 정우경, 김지성 |
