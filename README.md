@@ -31,7 +31,7 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 | To-do | Basic Terminal Commands | |
 | To-do | Operating Systems Knowledge (7 Topics) | |
 | | **Relational Databases** | |
-| 23-08-31 | PostgreSQL | 이정현, 정우경, 김지성 |
+| To-do | PostgreSQL | |
 
 ## Schedules (Hands-on)
 
