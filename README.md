@@ -39,7 +39,7 @@ Backend programming study with [Backend Roadmap (roadmap.sh)](https://roadmap.sh
 |------|--------|-------|
 | 23-08-02 | HTML/CSS <br> [[WEB1- HTML & Internet](https://www.youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb)], [[WEB2-CSS](https://www.youtube.com/playlist?list=PLuHgQVnccGMAnWgUYiAW2cTzSBywFO75B)] | [이정현](https://afpine.github.io/), [정우경](https://github.com/manoflearning/zombie) |
 | 23-08-09 | JavaScript <br> [[Javascript for Beginners](https://nomadcoders.co/javascript-for-beginners)] | [정우경](https://github.com/manoflearning/momentum) |
-| 23-08-12 | HTML/CSS, JavaScript Recap <br> [[CS50x 2023 - Lecture 8 - HTML, CSS, JavaScript](https://www.youtube.com/live/alnzFK-4xMY?feature=share)] | 김지성 |
+| 23-08-12 | HTML/CSS, JavaScript Recap <br> [[CS50x 2023 - Lecture 8 - HTML, CSS, JavaScript](https://www.youtube.com/live/alnzFK-4xMY?feature=share)] | |
 | 23-08-31 | Mini Project using HTML/CSS, JavaScript | [이정현](https://afpine.github.io/), [정우경](https://wookyungjeong.com/), [김지성](https://github.com/zs0057/Cloud-monitor) |
 | To-do | NodeJS (Express, Koa) | |
 | To-do | MongoDB | |
